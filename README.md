@@ -17,6 +17,10 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 ### TODO for version 1.0.0
-- [] Create retainer html template
-- [] Create retainer card styling
-- [] Make retainer sheet an extension of ActorSheet5e
+- [x] Create Repository
+- [x] Update module.json to contain repository links
+- [x] Include OGL
+- [x] Include GNU License
+- [ ] Create retainer html template
+- [ ] Create retainer card styling
+- [ ] Make retainer sheet an extension of ActorSheet5e
