@@ -1,0 +1,23 @@
+{
+	"name": "retainers",
+	"title": "Retainers",
+	"description": "An implementation of MCDM's retainers rules.",
+	"author": "Tyler Davis",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.6.6",
+	"compatibleCoreVersion": "0.7.9",
+	"systems": ["dnd5e"],
+	"esmodules": ["module/main.js"],
+	"styles": [],
+	"url": "",
+	"manifest": "",
+	"download": "",
+	"bugs": "",
+	"license": "LICENSE",
+	"readme": "README.md",
+	"languages": [{
+		"lang": "en",
+		"name": "English",
+		"path": "lang/en.json"
+	}]
+}
